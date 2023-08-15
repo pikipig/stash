@@ -8,8 +8,8 @@ $httpClient.get(url, function(error, response, data){
     let isp = jsonData.isp
     let ip = jsonData.query
   body = {
-    title: "节点信息",
-    content: `${ip} | IP信息\n${isp} | 运营商\n${emoji}${country} - ${city} | 所在地`,
+    title: "節點訊息",
+    content: `${ip} | IP訊息\n${isp} | 營運商\n${emoji}${country} - ${city} | 所在地`,
     icon: "globe.asia.australia.fill"
   }
   $done(body);
@@ -17,7 +17,7 @@ $httpClient.get(url, function(error, response, data){
 
 function getFlagEmoji(countryCode) {
       if (countryCode.toUpperCase() == 'TW') {
-    countryCode = 'CN'
+    countryCode = 'TW'
   }
   const codePoints = countryCode
     .toUpperCase()
