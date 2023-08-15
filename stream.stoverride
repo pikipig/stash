@@ -7,5 +7,5 @@ tiles:
 
 script-providers:
   Stream-Tile:
-    url: https://raw.githubusercontent.com/StevenKwan/stash-waffle/main/tiles/stream.js
+    url: https://raw.githubusercontent.com/pikipig/stash/main/tiles/ipcheck.js
     interval: 86400
