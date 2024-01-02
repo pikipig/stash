@@ -30,7 +30,7 @@ host-keyword, applovin, reject
 host-keyword, apptimize, reject
 host-keyword, baichuan, reject
 host-keyword, cnzz, reject
-host-keyword, crashlytics,, reject
+host-keyword, crashlytics, reject
 host-keyword, dnserror, reject
 host-keyword, domob, reject
 host-keyword, doubleclick, reject
