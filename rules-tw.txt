@@ -1,5 +1,5 @@
 host, itad.linetv.tw, reject
-host, sessions.bugsnag.com,, reject
+host, sessions.bugsnag.com, reject
 host-keyword, 51yes, reject
 host-keyword, acs86, reject
 host-keyword, adashx, reject
@@ -12,7 +12,7 @@ host-keyword, admob, reject
 host-keyword, adnewnc, reject
 host-keyword, adsage, reject
 host-keyword, adsame, reject
-host-keyword, adservice,, reject
+host-keyword, adservice, reject
 host-keyword, adsmind, reject
 host-keyword, adsmogo, reject
 host-keyword, adsrvmedia, reject
