@@ -1,73 +1,73 @@
-host, itad.linetv.tw, reject
-host, sessions.bugsnag.com, reject
-host-keyword, 51yes, reject
-host-keyword, acs86, reject
-host-keyword, adashx, reject
-host-keyword, adcome, reject
-host-keyword, adinfuse, reject
-host-keyword, admarvel, reject
-host-keyword, admaster, reject
-host-keyword, admdfs, reject
-host-keyword, admob, reject
-host-keyword, adnewnc, reject
-host-keyword, adsage, reject
-host-keyword, adsame, reject
-host-keyword, adservice, reject
-host-keyword, adsmind, reject
-host-keyword, adsmogo, reject
-host-keyword, adsrvmedia, reject
-host-keyword, adsserving, reject
-host-keyword, advert, reject
-host-keyword, adview, reject
-host-keyword, adwhirl, reject
-host-keyword, adwords, reject
-host-keyword, allyes, reject
-host-keyword, analysis, reject
-host-keyword, analytics, reject
-host-keyword, appads, reject
-host-keyword, appadhoc, reject
-host-keyword, applovin, reject
-host-keyword, apptimize, reject
-host-keyword, baichuan, reject
-host-keyword, cnzz, reject
-host-keyword, crashlytics, reject
-host-keyword, dnserror, reject
-host-keyword, domob, reject
-host-keyword, doubleclick, reject
-host-keyword, duomeng, reject
-host-keyword, dwtrack, reject
-host-keyword, emarbox, reject
-host-keyword, flurry, reject
-host-keyword, guanggao, reject
-host-keyword, guomob, reject
-host-keyword, growingio, reject
-host-keyword, intercom, reject
-host-keyword, inmobi, reject
-host-keyword, lianmeng, reject
-host-keyword, loggly, reject
-host-keyword, mobaders, reject
-host-keyword, mobclix, reject
-host-keyword, networkbench, reject
-host-keyword, omgmta, reject
-host-keyword, openx, reject
-host-keyword, partnerad, reject
-host-keyword, pingfore, reject
-host-keyword, safebrowsing, reject
-host-keyword, sensor, reject
-host-keyword, shence, reject
-host-keyword, shujupie, reject
-host-keyword, smartadserver, reject
-host-keyword, socdm, reject
-host-keyword, supersonicads, reject
-host-keyword, taboola, reject
-host-keyword, tanx, reject
-host-keyword, tapjoyads, reject
-host-keyword, telemetry, reject
-host-keyword, tingyun, reject
-host-keyword, uedas, reject
-host-keyword, umeng, reject
-host-keyword, umtrack, reject
-host-keyword, unidesk, reject
-host-keyword, wlmonitor, reject
-host-keyword, whalecloud, reject
-host-keyword, zjtoolbar, reject
+DOMAIN,itad.linetv.tw,REJECT
+DOMAIN,sessions.bugsnag.com,REJECT-DROP
+DOMAIN-KEYWORD,51yes,REJECT
+DOMAIN-KEYWORD,acs86,REJECT
+DOMAIN-KEYWORD,adashx,REJECT
+DOMAIN-KEYWORD,adcome,REJECT
+DOMAIN-KEYWORD,adinfuse,REJECT
+DOMAIN-KEYWORD,admarvel,REJECT
+DOMAIN-KEYWORD,admaster,REJECT
+DOMAIN-KEYWORD,admdfs,REJECT
+DOMAIN-KEYWORD,admob,REJECT
+DOMAIN-KEYWORD,adnewnc,REJECT
+DOMAIN-KEYWORD,adsage,REJECT
+DOMAIN-KEYWORD,adsame,REJECT
+DOMAIN-KEYWORD,adservice,REJECT-DROP
+DOMAIN-KEYWORD,adsmind,REJECT
+DOMAIN-KEYWORD,adsmogo,REJECT
+DOMAIN-KEYWORD,adsrvmedia,REJECT
+DOMAIN-KEYWORD,adsserving,REJECT
+DOMAIN-KEYWORD,advert,REJECT
+DOMAIN-KEYWORD,adview,REJECT
+DOMAIN-KEYWORD,adwhirl,REJECT
+DOMAIN-KEYWORD,adwords,REJECT
+DOMAIN-KEYWORD,allyes,REJECT
+DOMAIN-KEYWORD,analysis,REJECT
+DOMAIN-KEYWORD,analytics,REJECT
+DOMAIN-KEYWORD,appads,REJECT
+DOMAIN-KEYWORD,appadhoc,REJECT
+DOMAIN-KEYWORD,applovin,REJECT
+DOMAIN-KEYWORD,apptimize,REJECT
+DOMAIN-KEYWORD,baichuan,REJECT
+DOMAIN-KEYWORD,cnzz,REJECT
+DOMAIN-KEYWORD,crashlytics,REJECT-DROP
+DOMAIN-KEYWORD,dnserror,REJECT
+DOMAIN-KEYWORD,domob,REJECT
+DOMAIN-KEYWORD,doubleclick,REJECT
+DOMAIN-KEYWORD,duomeng,REJECT
+DOMAIN-KEYWORD,dwtrack,REJECT
+DOMAIN-KEYWORD,emarbox,REJECT
+DOMAIN-KEYWORD,flurry,REJECT
+DOMAIN-KEYWORD,guanggao,REJECT
+DOMAIN-KEYWORD,guomob,REJECT
+DOMAIN-KEYWORD,growingio,REJECT
+DOMAIN-KEYWORD,intercom,REJECT
+DOMAIN-KEYWORD,inmobi,REJECT
+DOMAIN-KEYWORD,lianmeng,REJECT
+DOMAIN-KEYWORD,loggly,REJECT
+DOMAIN-KEYWORD,mobaders,REJECT
+DOMAIN-KEYWORD,mobclix,REJECT
+DOMAIN-KEYWORD,networkbench,REJECT
+DOMAIN-KEYWORD,omgmta,REJECT
+DOMAIN-KEYWORD,openx,REJECT
+DOMAIN-KEYWORD,partnerad,REJECT
+DOMAIN-KEYWORD,pingfore,REJECT
+DOMAIN-KEYWORD,safebrowsing,REJECT
+DOMAIN-KEYWORD,sensor,REJECT
+DOMAIN-KEYWORD,shence,REJECT
+DOMAIN-KEYWORD,shujupie,REJECT
+DOMAIN-KEYWORD,smartadserver,REJECT
+DOMAIN-KEYWORD,socdm,REJECT
+DOMAIN-KEYWORD,supersonicads,REJECT
+DOMAIN-KEYWORD,taboola,REJECT
+DOMAIN-KEYWORD,tanx,REJECT
+DOMAIN-KEYWORD,tapjoyads,REJECT
+DOMAIN-KEYWORD,telemetry,REJECT
+DOMAIN-KEYWORD,tingyun,REJECT
+DOMAIN-KEYWORD,uedas,REJECT
+DOMAIN-KEYWORD,umeng,REJECT
+DOMAIN-KEYWORD,umtrack,REJECT
+DOMAIN-KEYWORD,unidesk,REJECT
+DOMAIN-KEYWORD,wlmonitor,REJECT
+DOMAIN-KEYWORD,whalecloud,REJECT
+DOMAIN-KEYWORD,zjtoolbar,REJECT
