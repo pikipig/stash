@@ -1,3 +1,5 @@
+#2024/03/28-Adblock
+
 DOMAIN-SUFFIX,data.mistat.rus.xiaomi.com,reject
 DOMAIN-SUFFIX,0.101tubeporn.com,reject
 DOMAIN-SUFFIX,0.code.cotsta.ru,reject
