@@ -13494,8 +13494,6 @@ DOMAIN-SUFFIX,data.bvsrv.com
 DOMAIN-SUFFIX,data.econa.com
 DOMAIN-SUFFIX,data.kameleoon.io
 DOMAIN-SUFFIX,data.mimikama.at
-DOMAIN-SUFFIX,data.mistat.india.xiaomi.com
-DOMAIN-SUFFIX,data.mistat.rus.xiaomi.com
 DOMAIN-SUFFIX,data.mistat.xiaomi.com
 DOMAIN-SUFFIX,data.r.pl
 DOMAIN-SUFFIX,data.sec.intl.miui.com
