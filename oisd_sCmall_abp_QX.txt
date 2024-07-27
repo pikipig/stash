@@ -1,6 +1,5 @@
 #202407270608
 
-DOMAIN-SUFFIX,data.mistat.rus.xiaomi.com
 DOMAIN-SUFFIX,0-02.net
 DOMAIN-SUFFIX,0.101tubeporn.com
 DOMAIN-SUFFIX,0.code.cotsta.ru
