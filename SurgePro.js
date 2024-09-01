@@ -44,9 +44,9 @@ if(days==0){
 	if(minutes==0)return(`${seconds}秒`);
 	return(`${minutes}分${seconds}秒`)
 	}
-	return(`${hours}时${minutes}分${seconds}秒`)
+	return(`${hours}時${minutes}分${seconds}秒`)
 	}else {
-	return(`${days}天${hours}时${minutes}分`)
+	return(`${days}天${hours}時${minutes}分`)
 	}
 
 }
